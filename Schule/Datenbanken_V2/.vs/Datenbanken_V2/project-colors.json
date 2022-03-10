@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "85f67800-ad6a-447c-81c0-5bd1550496f9": {
+      "ProjectGuid": "85f67800-ad6a-447c-81c0-5bd1550496f9",
+      "DisplayName": "Datenbanken_V2",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Sonstige Dateien",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
