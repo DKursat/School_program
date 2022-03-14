@@ -20,6 +20,7 @@ namespace Datenbanken_V2
             OleDbDataReader reader = null;
             try
             {
+                string ID = null;
                 string _Vorname = Vorname;
                 string _Nachname = Nachname;
                 string _Arbeitszeit = "0";
@@ -30,8 +31,8 @@ namespace Datenbanken_V2
                 dBVerbindung = new OleDbConnection(verbindungsstring);
                 dBVerbindung.Open();
                 cmd = dBVerbindung.CreateCommand();
-                cmd.CommandText = "INSERT INTO tbl_mitarbeiter (Nachname,Vorname,Arbeitszeit gesamt,MitarbeiterID) " +
-                    "VALUES ('" + _Nachname + "','" + _Vorname+"','"+_Arbeitszeit+"','"+_MitarbeiterID+"');";
+                cmd.CommandText = "INSERT INTO tbl_mitarbeiter ('ID','Nachname','Vorname','Arbeitszeit gesamt','MitarbeiterID') " +
+                    "VALUES ('"+ID+"','" + _Nachname + "','" + _Vorname+"','"+_Arbeitszeit+"','"+_MitarbeiterID+"');";
                 cmd.ExecuteNonQuery();
             
 
