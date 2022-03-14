@@ -33,7 +33,7 @@ namespace Datenbanken_V2
         private void button2_Click(object sender, EventArgs e)
         {
            Insert_Person_sql insert_Person_Sql = new Insert_Person_sql();
-            insert_Person_Sql.insert(Vorname.Text,Nachname.Text);
+            insert_Person_Sql.insert(Convert.ToString(Nachname.Text),Convert.ToString(Vorname.Text));
         }
     }
 }
