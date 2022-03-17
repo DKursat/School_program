@@ -29,7 +29,7 @@ namespace Datenbanken_V2
                 dBVerbindung = new OleDbConnection(verbindungsstring);
                 dBVerbindung.Open();
                 cmd = dBVerbindung.CreateCommand();
-                cmd.CommandText = "INSERT INTO tbl_mitarbeiter ('Nachname','Vorname','Arbeitszeit gesamt','MitarbeiterID') " +
+                cmd.CommandText = "INSERT INTO tbl_mitarbeiter (Nachname,Vorname,`Arbeitszeit gesamt`,MitarbeiterID) " +
                     "VALUES ('" + _Nachname + "','" + _Vorname+"','"+_Arbeitszeit+"','"+_MitarbeiterID+"');";
                 cmd.ExecuteNonQuery();
             
