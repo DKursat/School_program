@@ -1,0 +1,12 @@
+D:\Visual_studio_community\Schule\Prf_Datenbank\Prf_Datenbank\bin\Debug\DB-Beispiel-Buch.mdb
+D:\Visual_studio_community\Schule\Prf_Datenbank\Prf_Datenbank\bin\Debug\Prf_Datenbank.exe.config
+D:\Visual_studio_community\Schule\Prf_Datenbank\Prf_Datenbank\bin\Debug\Prf_Datenbank.exe
+D:\Visual_studio_community\Schule\Prf_Datenbank\Prf_Datenbank\bin\Debug\Prf_Datenbank.pdb
+D:\Visual_studio_community\Schule\Prf_Datenbank\Prf_Datenbank\obj\Debug\Prf_Datenbank.csproj.AssemblyReference.cache
+D:\Visual_studio_community\Schule\Prf_Datenbank\Prf_Datenbank\obj\Debug\Prf_Datenbank.csproj.SuggestedBindingRedirects.cache
+D:\Visual_studio_community\Schule\Prf_Datenbank\Prf_Datenbank\obj\Debug\Prf_Datenbank.Form1.resources
+D:\Visual_studio_community\Schule\Prf_Datenbank\Prf_Datenbank\obj\Debug\Prf_Datenbank.Properties.Resources.resources
+D:\Visual_studio_community\Schule\Prf_Datenbank\Prf_Datenbank\obj\Debug\Prf_Datenbank.csproj.GenerateResource.cache
+D:\Visual_studio_community\Schule\Prf_Datenbank\Prf_Datenbank\obj\Debug\Prf_Datenbank.csproj.CoreCompileInputs.cache
+D:\Visual_studio_community\Schule\Prf_Datenbank\Prf_Datenbank\obj\Debug\Prf_Datenbank.exe
+D:\Visual_studio_community\Schule\Prf_Datenbank\Prf_Datenbank\obj\Debug\Prf_Datenbank.pdb
