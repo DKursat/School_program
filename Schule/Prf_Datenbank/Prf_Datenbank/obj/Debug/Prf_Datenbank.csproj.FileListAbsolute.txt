@@ -10,3 +10,6 @@ D:\Visual_studio_community\Schule\Prf_Datenbank\Prf_Datenbank\obj\Debug\Prf_Date
 D:\Visual_studio_community\Schule\Prf_Datenbank\Prf_Datenbank\obj\Debug\Prf_Datenbank.csproj.CoreCompileInputs.cache
 D:\Visual_studio_community\Schule\Prf_Datenbank\Prf_Datenbank\obj\Debug\Prf_Datenbank.exe
 D:\Visual_studio_community\Schule\Prf_Datenbank\Prf_Datenbank\obj\Debug\Prf_Datenbank.pdb
+D:\Visual_studio_community\Schule\Prf_Datenbank\Prf_Datenbank\bin\Debug\System.Data.OleDb.dll
+D:\Visual_studio_community\Schule\Prf_Datenbank\Prf_Datenbank\bin\Debug\System.Data.OleDb.xml
+D:\Visual_studio_community\Schule\Prf_Datenbank\Prf_Datenbank\obj\Debug\Prf_Datenbank.csproj.CopyComplete

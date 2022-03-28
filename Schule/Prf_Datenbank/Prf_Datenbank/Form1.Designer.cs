@@ -30,6 +30,13 @@
         {
             this.components = new System.ComponentModel.Container();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.iDDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.nameDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.strasseDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.ortDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.telefonDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.kundenBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this._DB_Beispiel_BuchDataSet = new Prf_Datenbank._DB_Beispiel_BuchDataSet();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
@@ -54,17 +61,16 @@
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.radioButton1 = new System.Windows.Forms.RadioButton();
-            this._DB_Beispiel_BuchDataSet = new Prf_Datenbank._DB_Beispiel_BuchDataSet();
-            this.kundenBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.kundenTableAdapter = new Prf_Datenbank._DB_Beispiel_BuchDataSetTableAdapters.KundenTableAdapter();
-            this.iDDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.nameDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.strasseDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.ortDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.telefonDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.radioButton2 = new System.Windows.Forms.RadioButton();
+            this.radioButton3 = new System.Windows.Forms.RadioButton();
+            this.radioButton4 = new System.Windows.Forms.RadioButton();
+            this.label8 = new System.Windows.Forms.Label();
+            this.button10 = new System.Windows.Forms.Button();
+            this.button11 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this._DB_Beispiel_BuchDataSet)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.kundenBindingSource)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this._DB_Beispiel_BuchDataSet)).BeginInit();
             this.SuspendLayout();
             // 
             // dataGridView1
@@ -85,6 +91,56 @@
             this.dataGridView1.Size = new System.Drawing.Size(948, 304);
             this.dataGridView1.TabIndex = 0;
             // 
+            // iDDataGridViewTextBoxColumn
+            // 
+            this.iDDataGridViewTextBoxColumn.DataPropertyName = "ID";
+            this.iDDataGridViewTextBoxColumn.HeaderText = "ID";
+            this.iDDataGridViewTextBoxColumn.MinimumWidth = 10;
+            this.iDDataGridViewTextBoxColumn.Name = "iDDataGridViewTextBoxColumn";
+            this.iDDataGridViewTextBoxColumn.Width = 200;
+            // 
+            // nameDataGridViewTextBoxColumn
+            // 
+            this.nameDataGridViewTextBoxColumn.DataPropertyName = "Name";
+            this.nameDataGridViewTextBoxColumn.HeaderText = "Name";
+            this.nameDataGridViewTextBoxColumn.MinimumWidth = 10;
+            this.nameDataGridViewTextBoxColumn.Name = "nameDataGridViewTextBoxColumn";
+            this.nameDataGridViewTextBoxColumn.Width = 200;
+            // 
+            // strasseDataGridViewTextBoxColumn
+            // 
+            this.strasseDataGridViewTextBoxColumn.DataPropertyName = "Strasse";
+            this.strasseDataGridViewTextBoxColumn.HeaderText = "Strasse";
+            this.strasseDataGridViewTextBoxColumn.MinimumWidth = 10;
+            this.strasseDataGridViewTextBoxColumn.Name = "strasseDataGridViewTextBoxColumn";
+            this.strasseDataGridViewTextBoxColumn.Width = 200;
+            // 
+            // ortDataGridViewTextBoxColumn
+            // 
+            this.ortDataGridViewTextBoxColumn.DataPropertyName = "Ort";
+            this.ortDataGridViewTextBoxColumn.HeaderText = "Ort";
+            this.ortDataGridViewTextBoxColumn.MinimumWidth = 10;
+            this.ortDataGridViewTextBoxColumn.Name = "ortDataGridViewTextBoxColumn";
+            this.ortDataGridViewTextBoxColumn.Width = 200;
+            // 
+            // telefonDataGridViewTextBoxColumn
+            // 
+            this.telefonDataGridViewTextBoxColumn.DataPropertyName = "Telefon";
+            this.telefonDataGridViewTextBoxColumn.HeaderText = "Telefon";
+            this.telefonDataGridViewTextBoxColumn.MinimumWidth = 10;
+            this.telefonDataGridViewTextBoxColumn.Name = "telefonDataGridViewTextBoxColumn";
+            this.telefonDataGridViewTextBoxColumn.Width = 200;
+            // 
+            // kundenBindingSource
+            // 
+            this.kundenBindingSource.DataMember = "Kunden";
+            this.kundenBindingSource.DataSource = this._DB_Beispiel_BuchDataSet;
+            // 
+            // _DB_Beispiel_BuchDataSet
+            // 
+            this._DB_Beispiel_BuchDataSet.DataSetName = "_DB_Beispiel_BuchDataSet";
+            this._DB_Beispiel_BuchDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(12, 12);
@@ -93,6 +149,7 @@
             this.button1.TabIndex = 1;
             this.button1.Text = "Tabelle Kunden in MessageBoxen";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
@@ -288,74 +345,92 @@
             // radioButton1
             // 
             this.radioButton1.AutoSize = true;
-            this.radioButton1.Location = new System.Drawing.Point(900, 328);
+            this.radioButton1.Location = new System.Drawing.Point(935, 350);
             this.radioButton1.Name = "radioButton1";
             this.radioButton1.Size = new System.Drawing.Size(165, 29);
             this.radioButton1.TabIndex = 24;
             this.radioButton1.TabStop = true;
-            this.radioButton1.Text = "radioButton1";
+            this.radioButton1.Text = "Kamp-Linfort";
             this.radioButton1.UseVisualStyleBackColor = true;
             this.radioButton1.CheckedChanged += new System.EventHandler(this.Form1_Load);
-            // 
-            // _DB_Beispiel_BuchDataSet
-            // 
-            this._DB_Beispiel_BuchDataSet.DataSetName = "_DB_Beispiel_BuchDataSet";
-            this._DB_Beispiel_BuchDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
-            // 
-            // kundenBindingSource
-            // 
-            this.kundenBindingSource.DataMember = "Kunden";
-            this.kundenBindingSource.DataSource = this._DB_Beispiel_BuchDataSet;
             // 
             // kundenTableAdapter
             // 
             this.kundenTableAdapter.ClearBeforeFill = true;
             // 
-            // iDDataGridViewTextBoxColumn
+            // radioButton2
             // 
-            this.iDDataGridViewTextBoxColumn.DataPropertyName = "ID";
-            this.iDDataGridViewTextBoxColumn.HeaderText = "ID";
-            this.iDDataGridViewTextBoxColumn.MinimumWidth = 10;
-            this.iDDataGridViewTextBoxColumn.Name = "iDDataGridViewTextBoxColumn";
-            this.iDDataGridViewTextBoxColumn.Width = 200;
+            this.radioButton2.AutoSize = true;
+            this.radioButton2.Location = new System.Drawing.Point(935, 381);
+            this.radioButton2.Name = "radioButton2";
+            this.radioButton2.Size = new System.Drawing.Size(103, 29);
+            this.radioButton2.TabIndex = 25;
+            this.radioButton2.TabStop = true;
+            this.radioButton2.Text = "Moers";
+            this.radioButton2.UseVisualStyleBackColor = true;
             // 
-            // nameDataGridViewTextBoxColumn
+            // radioButton3
             // 
-            this.nameDataGridViewTextBoxColumn.DataPropertyName = "Name";
-            this.nameDataGridViewTextBoxColumn.HeaderText = "Name";
-            this.nameDataGridViewTextBoxColumn.MinimumWidth = 10;
-            this.nameDataGridViewTextBoxColumn.Name = "nameDataGridViewTextBoxColumn";
-            this.nameDataGridViewTextBoxColumn.Width = 200;
+            this.radioButton3.AutoSize = true;
+            this.radioButton3.Location = new System.Drawing.Point(935, 416);
+            this.radioButton3.Name = "radioButton3";
+            this.radioButton3.Size = new System.Drawing.Size(213, 29);
+            this.radioButton3.TabIndex = 26;
+            this.radioButton3.TabStop = true;
+            this.radioButton3.Text = "Neukirchen-Vluyn";
+            this.radioButton3.UseVisualStyleBackColor = true;
             // 
-            // strasseDataGridViewTextBoxColumn
+            // radioButton4
             // 
-            this.strasseDataGridViewTextBoxColumn.DataPropertyName = "Strasse";
-            this.strasseDataGridViewTextBoxColumn.HeaderText = "Strasse";
-            this.strasseDataGridViewTextBoxColumn.MinimumWidth = 10;
-            this.strasseDataGridViewTextBoxColumn.Name = "strasseDataGridViewTextBoxColumn";
-            this.strasseDataGridViewTextBoxColumn.Width = 200;
+            this.radioButton4.AutoSize = true;
+            this.radioButton4.Location = new System.Drawing.Point(935, 451);
+            this.radioButton4.Name = "radioButton4";
+            this.radioButton4.Size = new System.Drawing.Size(142, 29);
+            this.radioButton4.TabIndex = 27;
+            this.radioButton4.TabStop = true;
+            this.radioButton4.Text = "Rheinberg";
+            this.radioButton4.UseVisualStyleBackColor = true;
             // 
-            // ortDataGridViewTextBoxColumn
+            // label8
             // 
-            this.ortDataGridViewTextBoxColumn.DataPropertyName = "Ort";
-            this.ortDataGridViewTextBoxColumn.HeaderText = "Ort";
-            this.ortDataGridViewTextBoxColumn.MinimumWidth = 10;
-            this.ortDataGridViewTextBoxColumn.Name = "ortDataGridViewTextBoxColumn";
-            this.ortDataGridViewTextBoxColumn.Width = 200;
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(930, 322);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(96, 25);
+            this.label8.TabIndex = 28;
+            this.label8.Text = "Ortswahl";
             // 
-            // telefonDataGridViewTextBoxColumn
+            // button10
             // 
-            this.telefonDataGridViewTextBoxColumn.DataPropertyName = "Telefon";
-            this.telefonDataGridViewTextBoxColumn.HeaderText = "Telefon";
-            this.telefonDataGridViewTextBoxColumn.MinimumWidth = 10;
-            this.telefonDataGridViewTextBoxColumn.Name = "telefonDataGridViewTextBoxColumn";
-            this.telefonDataGridViewTextBoxColumn.Width = 200;
+            this.button10.Location = new System.Drawing.Point(1100, 667);
+            this.button10.Name = "button10";
+            this.button10.Size = new System.Drawing.Size(243, 88);
+            this.button10.TabIndex = 29;
+            this.button10.Text = "Datenbanverbinden";
+            this.button10.UseVisualStyleBackColor = true;
+            this.button10.Click += new System.EventHandler(this.button10_Click);
+            // 
+            // button11
+            // 
+            this.button11.Location = new System.Drawing.Point(1100, 758);
+            this.button11.Name = "button11";
+            this.button11.Size = new System.Drawing.Size(243, 88);
+            this.button11.TabIndex = 30;
+            this.button11.Text = "Datenbankverbindung abbrechen";
+            this.button11.UseVisualStyleBackColor = true;
+            this.button11.Click += new System.EventHandler(this.button11_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1355, 858);
+            this.Controls.Add(this.button11);
+            this.Controls.Add(this.button10);
+            this.Controls.Add(this.label8);
+            this.Controls.Add(this.radioButton4);
+            this.Controls.Add(this.radioButton3);
+            this.Controls.Add(this.radioButton2);
             this.Controls.Add(this.radioButton1);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
@@ -385,8 +460,8 @@
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this._DB_Beispiel_BuchDataSet)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.kundenBindingSource)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this._DB_Beispiel_BuchDataSet)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -427,6 +502,12 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn strasseDataGridViewTextBoxColumn;
         private System.Windows.Forms.DataGridViewTextBoxColumn ortDataGridViewTextBoxColumn;
         private System.Windows.Forms.DataGridViewTextBoxColumn telefonDataGridViewTextBoxColumn;
+        private System.Windows.Forms.RadioButton radioButton2;
+        private System.Windows.Forms.RadioButton radioButton3;
+        private System.Windows.Forms.RadioButton radioButton4;
+        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.Button button10;
+        private System.Windows.Forms.Button button11;
     }
 }
 
