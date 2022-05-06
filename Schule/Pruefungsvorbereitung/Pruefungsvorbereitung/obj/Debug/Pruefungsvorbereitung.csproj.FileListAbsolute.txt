@@ -1,0 +1,14 @@
+E:\Github\Visual_studio_community\Schule\Pruefungsvorbereitung\Pruefungsvorbereitung\bin\Debug\Pruefungsvorbereitung.exe.config
+E:\Github\Visual_studio_community\Schule\Pruefungsvorbereitung\Pruefungsvorbereitung\bin\Debug\Pruefungsvorbereitung.exe
+E:\Github\Visual_studio_community\Schule\Pruefungsvorbereitung\Pruefungsvorbereitung\bin\Debug\Pruefungsvorbereitung.pdb
+E:\Github\Visual_studio_community\Schule\Pruefungsvorbereitung\Pruefungsvorbereitung\obj\Debug\Pruefungsvorbereitung.csproj.AssemblyReference.cache
+E:\Github\Visual_studio_community\Schule\Pruefungsvorbereitung\Pruefungsvorbereitung\obj\Debug\Pruefungsvorbereitung.csproj.SuggestedBindingRedirects.cache
+E:\Github\Visual_studio_community\Schule\Pruefungsvorbereitung\Pruefungsvorbereitung\obj\Debug\Pruefungsvorbereitung.Form1.resources
+E:\Github\Visual_studio_community\Schule\Pruefungsvorbereitung\Pruefungsvorbereitung\obj\Debug\Pruefungsvorbereitung.Properties.Resources.resources
+E:\Github\Visual_studio_community\Schule\Pruefungsvorbereitung\Pruefungsvorbereitung\obj\Debug\Pruefungsvorbereitung.csproj.GenerateResource.cache
+E:\Github\Visual_studio_community\Schule\Pruefungsvorbereitung\Pruefungsvorbereitung\obj\Debug\Pruefungsvorbereitung.csproj.CoreCompileInputs.cache
+E:\Github\Visual_studio_community\Schule\Pruefungsvorbereitung\Pruefungsvorbereitung\obj\Debug\Pruefungsvorbereitung.exe
+E:\Github\Visual_studio_community\Schule\Pruefungsvorbereitung\Pruefungsvorbereitung\obj\Debug\Pruefungsvorbereitung.pdb
+E:\Github\Visual_studio_community\Schule\Pruefungsvorbereitung\Pruefungsvorbereitung\bin\Debug\System.Data.OleDb.dll
+E:\Github\Visual_studio_community\Schule\Pruefungsvorbereitung\Pruefungsvorbereitung\bin\Debug\System.Data.OleDb.xml
+E:\Github\Visual_studio_community\Schule\Pruefungsvorbereitung\Pruefungsvorbereitung\obj\Debug\Pruefungsvorbereitung.csproj.CopyComplete
