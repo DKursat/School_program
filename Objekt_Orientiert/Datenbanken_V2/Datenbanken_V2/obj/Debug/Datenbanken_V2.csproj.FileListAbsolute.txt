@@ -1,0 +1,24 @@
+D:\Visual_studio_community\Schule\Datenbanken_V2\Datenbanken_V2\bin\Debug\Datenbanken_V2.exe.config
+D:\Visual_studio_community\Schule\Datenbanken_V2\Datenbanken_V2\bin\Debug\Datenbanken_V2.exe
+D:\Visual_studio_community\Schule\Datenbanken_V2\Datenbanken_V2\bin\Debug\Datenbanken_V2.pdb
+D:\Visual_studio_community\Schule\Datenbanken_V2\Datenbanken_V2\obj\Debug\Datenbanken_V2.csproj.AssemblyReference.cache
+D:\Visual_studio_community\Schule\Datenbanken_V2\Datenbanken_V2\obj\Debug\Datenbanken_V2.csproj.SuggestedBindingRedirects.cache
+D:\Visual_studio_community\Schule\Datenbanken_V2\Datenbanken_V2\obj\Debug\Datenbanken_V2.Form1.resources
+D:\Visual_studio_community\Schule\Datenbanken_V2\Datenbanken_V2\obj\Debug\Datenbanken_V2.Properties.Resources.resources
+D:\Visual_studio_community\Schule\Datenbanken_V2\Datenbanken_V2\obj\Debug\Datenbanken_V2.csproj.GenerateResource.cache
+D:\Visual_studio_community\Schule\Datenbanken_V2\Datenbanken_V2\obj\Debug\Datenbanken_V2.csproj.CoreCompileInputs.cache
+D:\Visual_studio_community\Schule\Datenbanken_V2\Datenbanken_V2\obj\Debug\Datenbanken_V2.exe
+D:\Visual_studio_community\Schule\Datenbanken_V2\Datenbanken_V2\obj\Debug\Datenbanken_V2.pdb
+D:\Visual_studio_community\Schule\Datenbanken_V2\Datenbanken_V2\bin\Debug\Datenbank Zeiterfassung.mdb
+E:\Github\Visual_studio_community\Schule\Datenbanken_V2\Datenbanken_V2\bin\Debug\Datenbank Zeiterfassung.mdb
+E:\Github\Visual_studio_community\Schule\Datenbanken_V2\Datenbanken_V2\bin\Debug\Datenbanken_V2.exe.config
+E:\Github\Visual_studio_community\Schule\Datenbanken_V2\Datenbanken_V2\bin\Debug\Datenbanken_V2.exe
+E:\Github\Visual_studio_community\Schule\Datenbanken_V2\Datenbanken_V2\bin\Debug\Datenbanken_V2.pdb
+E:\Github\Visual_studio_community\Schule\Datenbanken_V2\Datenbanken_V2\obj\Debug\Datenbanken_V2.csproj.AssemblyReference.cache
+E:\Github\Visual_studio_community\Schule\Datenbanken_V2\Datenbanken_V2\obj\Debug\Datenbanken_V2.csproj.SuggestedBindingRedirects.cache
+E:\Github\Visual_studio_community\Schule\Datenbanken_V2\Datenbanken_V2\obj\Debug\Datenbanken_V2.Form1.resources
+E:\Github\Visual_studio_community\Schule\Datenbanken_V2\Datenbanken_V2\obj\Debug\Datenbanken_V2.Properties.Resources.resources
+E:\Github\Visual_studio_community\Schule\Datenbanken_V2\Datenbanken_V2\obj\Debug\Datenbanken_V2.csproj.GenerateResource.cache
+E:\Github\Visual_studio_community\Schule\Datenbanken_V2\Datenbanken_V2\obj\Debug\Datenbanken_V2.csproj.CoreCompileInputs.cache
+E:\Github\Visual_studio_community\Schule\Datenbanken_V2\Datenbanken_V2\obj\Debug\Datenbanken_V2.exe
+E:\Github\Visual_studio_community\Schule\Datenbanken_V2\Datenbanken_V2\obj\Debug\Datenbanken_V2.pdb
