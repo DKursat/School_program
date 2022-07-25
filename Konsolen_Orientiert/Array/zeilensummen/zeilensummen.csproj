@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Lauri\Desktop\schule\schule\Programmieren\C#\arrays\3x3Zeinesummen.cs" Link="3x3Zeinesummen.cs" />
+  </ItemGroup>
+
+</Project>

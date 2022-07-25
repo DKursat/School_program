@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Programmieren\Klasse\Aufgabe_6.1\Aufgabe_6.1\bin\Debug\Aufgabe_6.1.exe.config
+C:\Users\User\Desktop\Programmieren\Klasse\Aufgabe_6.1\Aufgabe_6.1\bin\Debug\Aufgabe_6.1.exe
+C:\Users\User\Desktop\Programmieren\Klasse\Aufgabe_6.1\Aufgabe_6.1\bin\Debug\Aufgabe_6.1.pdb
+C:\Users\User\Desktop\Programmieren\Klasse\Aufgabe_6.1\Aufgabe_6.1\obj\Debug\Aufgabe_6.1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Programmieren\Klasse\Aufgabe_6.1\Aufgabe_6.1\obj\Debug\Aufgabe_6.1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programmieren\Klasse\Aufgabe_6.1\Aufgabe_6.1\obj\Debug\Aufgabe_6.1.exe
+C:\Users\User\Desktop\Programmieren\Klasse\Aufgabe_6.1\Aufgabe_6.1\obj\Debug\Aufgabe_6.1.pdb
+C:\Users\kursa\Desktop\EA19B\Programmieren\Klasse\Aufgabe_6.1\Aufgabe_6.1\bin\Debug\Aufgabe_6.1.exe.config
+C:\Users\kursa\Desktop\EA19B\Programmieren\Klasse\Aufgabe_6.1\Aufgabe_6.1\bin\Debug\Aufgabe_6.1.exe
+C:\Users\kursa\Desktop\EA19B\Programmieren\Klasse\Aufgabe_6.1\Aufgabe_6.1\bin\Debug\Aufgabe_6.1.pdb
+C:\Users\kursa\Desktop\EA19B\Programmieren\Klasse\Aufgabe_6.1\Aufgabe_6.1\obj\Debug\Aufgabe_6.1.csprojAssemblyReference.cache
+C:\Users\kursa\Desktop\EA19B\Programmieren\Klasse\Aufgabe_6.1\Aufgabe_6.1\obj\Debug\Aufgabe_6.1.csproj.CoreCompileInputs.cache
+C:\Users\kursa\Desktop\EA19B\Programmieren\Klasse\Aufgabe_6.1\Aufgabe_6.1\obj\Debug\Aufgabe_6.1.exe
+C:\Users\kursa\Desktop\EA19B\Programmieren\Klasse\Aufgabe_6.1\Aufgabe_6.1\obj\Debug\Aufgabe_6.1.pdb

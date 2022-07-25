@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>zeilen_spalten_summen</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Lauri\Desktop\schule\schule\Programmieren\C#\arrays\Zeilen-spaltn-summen.cs" Link="Zeilen-spaltn-summen.cs" />
+  </ItemGroup>
+
+</Project>

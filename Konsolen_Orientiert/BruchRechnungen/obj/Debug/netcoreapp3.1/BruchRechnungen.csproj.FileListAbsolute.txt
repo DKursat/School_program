@@ -1,0 +1,11 @@
+C:\Users\Lauri\source\repos\BruchRechnungen\bin\Debug\netcoreapp3.1\BruchRechnungen.exe
+C:\Users\Lauri\source\repos\BruchRechnungen\bin\Debug\netcoreapp3.1\BruchRechnungen.deps.json
+C:\Users\Lauri\source\repos\BruchRechnungen\bin\Debug\netcoreapp3.1\BruchRechnungen.runtimeconfig.json
+C:\Users\Lauri\source\repos\BruchRechnungen\bin\Debug\netcoreapp3.1\BruchRechnungen.runtimeconfig.dev.json
+C:\Users\Lauri\source\repos\BruchRechnungen\bin\Debug\netcoreapp3.1\BruchRechnungen.dll
+C:\Users\Lauri\source\repos\BruchRechnungen\bin\Debug\netcoreapp3.1\BruchRechnungen.pdb
+C:\Users\Lauri\source\repos\BruchRechnungen\obj\Debug\netcoreapp3.1\BruchRechnungen.csprojAssemblyReference.cache
+C:\Users\Lauri\source\repos\BruchRechnungen\obj\Debug\netcoreapp3.1\BruchRechnungen.AssemblyInfoInputs.cache
+C:\Users\Lauri\source\repos\BruchRechnungen\obj\Debug\netcoreapp3.1\BruchRechnungen.AssemblyInfo.cs
+C:\Users\Lauri\source\repos\BruchRechnungen\obj\Debug\netcoreapp3.1\BruchRechnungen.dll
+C:\Users\Lauri\source\repos\BruchRechnungen\obj\Debug\netcoreapp3.1\BruchRechnungen.pdb

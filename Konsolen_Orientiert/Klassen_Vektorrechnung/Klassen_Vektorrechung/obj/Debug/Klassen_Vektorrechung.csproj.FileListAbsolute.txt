@@ -1,0 +1,14 @@
+C:\Users\kursa\Desktop\Programmieren\Klasse\Klassen_Vektorrechung\bin\Debug\Klassen_Vektorrechung.exe.config
+C:\Users\kursa\Desktop\Programmieren\Klasse\Klassen_Vektorrechung\bin\Debug\Klassen_Vektorrechung.exe
+C:\Users\kursa\Desktop\Programmieren\Klasse\Klassen_Vektorrechung\bin\Debug\Klassen_Vektorrechung.pdb
+C:\Users\kursa\Desktop\Programmieren\Klasse\Klassen_Vektorrechung\obj\Debug\Klassen_Vektorrechung.csprojAssemblyReference.cache
+C:\Users\kursa\Desktop\Programmieren\Klasse\Klassen_Vektorrechung\obj\Debug\Klassen_Vektorrechung.csproj.CoreCompileInputs.cache
+C:\Users\kursa\Desktop\Programmieren\Klasse\Klassen_Vektorrechung\obj\Debug\Klassen_Vektorrechung.exe
+C:\Users\kursa\Desktop\Programmieren\Klasse\Klassen_Vektorrechung\obj\Debug\Klassen_Vektorrechung.pdb
+C:\Users\kursa\Desktop\EA19B\Programmieren\Klasse\Klassen_Vektorrechung\bin\Debug\Klassen_Vektorrechung.exe.config
+C:\Users\kursa\Desktop\EA19B\Programmieren\Klasse\Klassen_Vektorrechung\bin\Debug\Klassen_Vektorrechung.exe
+C:\Users\kursa\Desktop\EA19B\Programmieren\Klasse\Klassen_Vektorrechung\bin\Debug\Klassen_Vektorrechung.pdb
+C:\Users\kursa\Desktop\EA19B\Programmieren\Klasse\Klassen_Vektorrechung\obj\Debug\Klassen_Vektorrechung.csprojAssemblyReference.cache
+C:\Users\kursa\Desktop\EA19B\Programmieren\Klasse\Klassen_Vektorrechung\obj\Debug\Klassen_Vektorrechung.csproj.CoreCompileInputs.cache
+C:\Users\kursa\Desktop\EA19B\Programmieren\Klasse\Klassen_Vektorrechung\obj\Debug\Klassen_Vektorrechung.exe
+C:\Users\kursa\Desktop\EA19B\Programmieren\Klasse\Klassen_Vektorrechung\obj\Debug\Klassen_Vektorrechung.pdb

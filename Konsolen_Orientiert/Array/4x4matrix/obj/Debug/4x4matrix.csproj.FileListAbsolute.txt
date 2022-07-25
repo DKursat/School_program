@@ -1,0 +1,6 @@
+C:\Users\Lauri\source\repos\4x4matrix\bin\Debug\4x4matrix.exe.config
+C:\Users\Lauri\source\repos\4x4matrix\bin\Debug\4x4matrix.exe
+C:\Users\Lauri\source\repos\4x4matrix\bin\Debug\4x4matrix.pdb
+C:\Users\Lauri\source\repos\4x4matrix\obj\Debug\4x4matrix.csprojAssemblyReference.cache
+C:\Users\Lauri\source\repos\4x4matrix\obj\Debug\4x4matrix.exe
+C:\Users\Lauri\source\repos\4x4matrix\obj\Debug\4x4matrix.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Programmieren\Klassen\Klassen\bin\Debug\Klassen.exe.config
+C:\Users\User\Desktop\Programmieren\Klassen\Klassen\bin\Debug\Klassen.exe
+C:\Users\User\Desktop\Programmieren\Klassen\Klassen\bin\Debug\Klassen.pdb
+C:\Users\User\Desktop\Programmieren\Klassen\Klassen\obj\Debug\Klassen.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Programmieren\Klassen\Klassen\obj\Debug\Klassen.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programmieren\Klassen\Klassen\obj\Debug\Klassen.exe
+C:\Users\User\Desktop\Programmieren\Klassen\Klassen\obj\Debug\Klassen.pdb

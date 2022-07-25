@@ -1,0 +1,13 @@
+C:\Users\Lauri\source\repos\array sortierung\bin\Debug\array sortierung.exe.config
+C:\Users\Lauri\source\repos\array sortierung\bin\Debug\array sortierung.exe
+C:\Users\Lauri\source\repos\array sortierung\bin\Debug\array sortierung.pdb
+C:\Users\Lauri\source\repos\array sortierung\obj\Debug\array filter.csprojAssemblyReference.cache
+C:\Users\Lauri\source\repos\array sortierung\obj\Debug\array sortierung.exe
+C:\Users\Lauri\source\repos\array sortierung\obj\Debug\array sortierung.pdb
+C:\Users\kursa\Desktop\EA19B\Programmieren\Array\array sortierung\bin\Debug\array sortierung.exe.config
+C:\Users\kursa\Desktop\EA19B\Programmieren\Array\array sortierung\bin\Debug\array sortierung.exe
+C:\Users\kursa\Desktop\EA19B\Programmieren\Array\array sortierung\bin\Debug\array sortierung.pdb
+C:\Users\kursa\Desktop\EA19B\Programmieren\Array\array sortierung\obj\Debug\array filter.csprojAssemblyReference.cache
+C:\Users\kursa\Desktop\EA19B\Programmieren\Array\array sortierung\obj\Debug\array filter.csproj.CoreCompileInputs.cache
+C:\Users\kursa\Desktop\EA19B\Programmieren\Array\array sortierung\obj\Debug\array sortierung.exe
+C:\Users\kursa\Desktop\EA19B\Programmieren\Array\array sortierung\obj\Debug\array sortierung.pdb

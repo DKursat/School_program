@@ -1,0 +1,28 @@
+E:\Artikel Verwaltung V2\Artikel Verwaltung V2\bin\Debug\Artikel Verwaltung V2.exe.config
+E:\Artikel Verwaltung V2\Artikel Verwaltung V2\bin\Debug\Artikel Verwaltung V2.exe
+E:\Artikel Verwaltung V2\Artikel Verwaltung V2\bin\Debug\Artikel Verwaltung V2.pdb
+E:\Artikel Verwaltung V2\Artikel Verwaltung V2\obj\Debug\Artikel Verwaltung V2.csprojAssemblyReference.cache
+E:\Artikel Verwaltung V2\Artikel Verwaltung V2\obj\Debug\Artikel Verwaltung V2.csproj.CoreCompileInputs.cache
+E:\Artikel Verwaltung V2\Artikel Verwaltung V2\obj\Debug\Artikel Verwaltung V2.exe
+E:\Artikel Verwaltung V2\Artikel Verwaltung V2\obj\Debug\Artikel Verwaltung V2.pdb
+I:\Artikel Verwaltung V2\Artikel Verwaltung V2\bin\Debug\Artikel Verwaltung V2.exe.config
+I:\Artikel Verwaltung V2\Artikel Verwaltung V2\bin\Debug\Artikel Verwaltung V2.exe
+I:\Artikel Verwaltung V2\Artikel Verwaltung V2\bin\Debug\Artikel Verwaltung V2.pdb
+I:\Artikel Verwaltung V2\Artikel Verwaltung V2\obj\Debug\Artikel Verwaltung V2.csprojAssemblyReference.cache
+I:\Artikel Verwaltung V2\Artikel Verwaltung V2\obj\Debug\Artikel Verwaltung V2.csproj.CoreCompileInputs.cache
+I:\Artikel Verwaltung V2\Artikel Verwaltung V2\obj\Debug\Artikel Verwaltung V2.exe
+I:\Artikel Verwaltung V2\Artikel Verwaltung V2\obj\Debug\Artikel Verwaltung V2.pdb
+E:\Artikel_Verwaltung_V2_Kürsat_Darcan\Artikel Verwaltung V2\bin\Debug\Artikel Verwaltung V2.exe.config
+E:\Artikel_Verwaltung_V2_Kürsat_Darcan\Artikel Verwaltung V2\bin\Debug\Artikel Verwaltung V2.exe
+E:\Artikel_Verwaltung_V2_Kürsat_Darcan\Artikel Verwaltung V2\bin\Debug\Artikel Verwaltung V2.pdb
+E:\Artikel_Verwaltung_V2_Kürsat_Darcan\Artikel Verwaltung V2\obj\Debug\Artikel Verwaltung V2.csprojAssemblyReference.cache
+E:\Artikel_Verwaltung_V2_Kürsat_Darcan\Artikel Verwaltung V2\obj\Debug\Artikel Verwaltung V2.csproj.CoreCompileInputs.cache
+E:\Artikel_Verwaltung_V2_Kürsat_Darcan\Artikel Verwaltung V2\obj\Debug\Artikel Verwaltung V2.exe
+E:\Artikel_Verwaltung_V2_Kürsat_Darcan\Artikel Verwaltung V2\obj\Debug\Artikel Verwaltung V2.pdb
+C:\Users\User\Desktop\Programmieren\Artikel_Verwaltung_V2_Kürsat_Darcan\Artikel Verwaltung V2\bin\Debug\Artikel Verwaltung V2.exe.config
+C:\Users\User\Desktop\Programmieren\Artikel_Verwaltung_V2_Kürsat_Darcan\Artikel Verwaltung V2\bin\Debug\Artikel Verwaltung V2.exe
+C:\Users\User\Desktop\Programmieren\Artikel_Verwaltung_V2_Kürsat_Darcan\Artikel Verwaltung V2\bin\Debug\Artikel Verwaltung V2.pdb
+C:\Users\User\Desktop\Programmieren\Artikel_Verwaltung_V2_Kürsat_Darcan\Artikel Verwaltung V2\obj\Debug\Artikel Verwaltung V2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Programmieren\Artikel_Verwaltung_V2_Kürsat_Darcan\Artikel Verwaltung V2\obj\Debug\Artikel Verwaltung V2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programmieren\Artikel_Verwaltung_V2_Kürsat_Darcan\Artikel Verwaltung V2\obj\Debug\Artikel Verwaltung V2.exe
+C:\Users\User\Desktop\Programmieren\Artikel_Verwaltung_V2_Kürsat_Darcan\Artikel Verwaltung V2\obj\Debug\Artikel Verwaltung V2.pdb

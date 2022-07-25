@@ -1,0 +1,17 @@
+C:\Users\Lauri\source\repos\zeilen-spalten-summen\bin\Debug\netcoreapp3.1\zeilen-spalten-summen.exe
+C:\Users\Lauri\source\repos\zeilen-spalten-summen\bin\Debug\netcoreapp3.1\zeilen-spalten-summen.deps.json
+C:\Users\Lauri\source\repos\zeilen-spalten-summen\bin\Debug\netcoreapp3.1\zeilen-spalten-summen.runtimeconfig.json
+C:\Users\Lauri\source\repos\zeilen-spalten-summen\bin\Debug\netcoreapp3.1\zeilen-spalten-summen.runtimeconfig.dev.json
+C:\Users\Lauri\source\repos\zeilen-spalten-summen\bin\Debug\netcoreapp3.1\zeilen-spalten-summen.dll
+C:\Users\Lauri\source\repos\zeilen-spalten-summen\bin\Debug\netcoreapp3.1\zeilen-spalten-summen.pdb
+C:\Users\Lauri\source\repos\zeilen-spalten-summen\obj\Debug\netcoreapp3.1\zeilen-spalten-summen.csprojAssemblyReference.cache
+C:\Users\Lauri\source\repos\zeilen-spalten-summen\obj\Debug\netcoreapp3.1\zeilen-spalten-summen.AssemblyInfoInputs.cache
+C:\Users\Lauri\source\repos\zeilen-spalten-summen\obj\Debug\netcoreapp3.1\zeilen-spalten-summen.AssemblyInfo.cs
+C:\Users\Lauri\source\repos\zeilen-spalten-summen\obj\Debug\netcoreapp3.1\zeilen-spalten-summen.dll
+C:\Users\Lauri\source\repos\zeilen-spalten-summen\obj\Debug\netcoreapp3.1\zeilen-spalten-summen.pdb
+C:\Users\kursa\Desktop\EA19B\Programmieren\Array\zeilen-spalten-summen\obj\Debug\netcoreapp3.1\zeilen-spalten-summen.csprojAssemblyReference.cache
+C:\Users\kursa\Desktop\EA19B\Programmieren\Array\zeilen-spalten-summen\obj\Debug\netcoreapp3.1\zeilen-spalten-summen.AssemblyInfoInputs.cache
+C:\Users\kursa\Desktop\EA19B\Programmieren\Array\zeilen-spalten-summen\obj\Debug\netcoreapp3.1\zeilen-spalten-summen.AssemblyInfo.cs
+C:\Users\kursa\Desktop\EA19B\Programmieren\Array\zeilen-spalten-summen\obj\Debug\netcoreapp3.1\zeilen-spalten-summen.csproj.CoreCompileInputs.cache
+C:\Users\kursa\Desktop\EA19B\Programmieren\Array\zeilen-spalten-summen\obj\Debug\netcoreapp3.1\zeilen-spalten-summen.dll
+C:\Users\kursa\Desktop\EA19B\Programmieren\Array\zeilen-spalten-summen\obj\Debug\netcoreapp3.1\zeilen-spalten-summen.pdb

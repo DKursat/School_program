@@ -1,0 +1,6 @@
+C:\Users\Lauri\source\repos\array sort\bin\Debug\array sort.exe.config
+C:\Users\Lauri\source\repos\array sort\bin\Debug\array sort.exe
+C:\Users\Lauri\source\repos\array sort\bin\Debug\array sort.pdb
+C:\Users\Lauri\source\repos\array sort\obj\Debug\array sort.csprojAssemblyReference.cache
+C:\Users\Lauri\source\repos\array sort\obj\Debug\array sort.exe
+C:\Users\Lauri\source\repos\array sort\obj\Debug\array sort.pdb

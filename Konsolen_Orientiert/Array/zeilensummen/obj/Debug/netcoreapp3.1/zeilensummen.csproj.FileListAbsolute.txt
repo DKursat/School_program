@@ -1,0 +1,11 @@
+C:\Users\Lauri\source\repos\zeilensummen\bin\Debug\netcoreapp3.1\zeilensummen.exe
+C:\Users\Lauri\source\repos\zeilensummen\bin\Debug\netcoreapp3.1\zeilensummen.deps.json
+C:\Users\Lauri\source\repos\zeilensummen\bin\Debug\netcoreapp3.1\zeilensummen.runtimeconfig.json
+C:\Users\Lauri\source\repos\zeilensummen\bin\Debug\netcoreapp3.1\zeilensummen.runtimeconfig.dev.json
+C:\Users\Lauri\source\repos\zeilensummen\bin\Debug\netcoreapp3.1\zeilensummen.dll
+C:\Users\Lauri\source\repos\zeilensummen\bin\Debug\netcoreapp3.1\zeilensummen.pdb
+C:\Users\Lauri\source\repos\zeilensummen\obj\Debug\netcoreapp3.1\zeilensummen.csprojAssemblyReference.cache
+C:\Users\Lauri\source\repos\zeilensummen\obj\Debug\netcoreapp3.1\zeilensummen.AssemblyInfoInputs.cache
+C:\Users\Lauri\source\repos\zeilensummen\obj\Debug\netcoreapp3.1\zeilensummen.AssemblyInfo.cs
+C:\Users\Lauri\source\repos\zeilensummen\obj\Debug\netcoreapp3.1\zeilensummen.dll
+C:\Users\Lauri\source\repos\zeilensummen\obj\Debug\netcoreapp3.1\zeilensummen.pdb
